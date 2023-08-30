@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DAILY_NOTES/2023-08-30.md",
+                "file": "SCHOOL/English Comp I/So You've Got a Writing Assignment.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,6 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "SCHOOL/English Comp I/So You've Got a Writing Assignment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,6 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "SCHOOL/English Comp I/So You've Got a Writing Assignment.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +140,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "SCHOOL/English Comp I/So You've Got a Writing Assignment.md"
+              }
             }
           }
         ]
@@ -161,14 +165,14 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "cac7289256b56526",
+  "active": "388d3d6a679c8772",
   "lastOpenFiles": [
+    "DAILY_NOTES/2023-08-30.md",
     "empty/ENGLISH NOTES.md",
     "empty",
     "New folder",
     "NOTES/ENGLISH NOTES.md",
     "NOTES",
-    "DAILY_NOTES/2023-08-30.md",
     "ASSETS/Pasted image 20230830132307.png",
     "ASSETS/Pasted image 20230830133045.png",
     "SCHOOL/English Comp I/Understanding Rhetoric -  Graphic Guide to Writing.md",
