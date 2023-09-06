@@ -9,3 +9,9 @@ course:
 date: 2023-08-30
 notes: 
 ---
+
+---
+# [Chapter](obsidian://open?vault=NOTES&file=ASSETS%2FSo-Youve-got-a-Writing-Assignment.pdf)
+
+---
+

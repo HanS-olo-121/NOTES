@@ -8,24 +8,24 @@ kanban-plugin: basic
 
 
 
-## TO DO
-
-- [ ] Guilty Pleasure Essay Draft
+## TO DO BEFORE NEXT CLASS
 
 
-## To Do By **09/06**
 
-- [ ] Journal 2
+## To Do By **09/13**
+
+- [ ] Guilty Pleasure Essay Draft 1
 
 
 ## Doing
 
-- [ ] Read:<br> - [x] [[Is Google Making Us Stupid]]<br> - [x] [[Understanding Rhetoric -  Graphic Guide to Writing]]<br> - [ ] [[So You've Got a Writing Assignment]]<br> - [ ] [[Guide to Rhetoric, Genre, & Success in First Year Writing]]
 
 
 ## Done
 
 **Complete**
+- [x] Read:<br> - [x] [[Is Google Making Us Stupid]]<br> - [x] [[Understanding Rhetoric -  Graphic Guide to Writing]]<br> - [x] [[So You've Got a Writing Assignment]]<br> - [x] [[Guide to Rhetoric, Genre, & Success in First Year Writing]]
+- [x] Journal 2
 
 
 

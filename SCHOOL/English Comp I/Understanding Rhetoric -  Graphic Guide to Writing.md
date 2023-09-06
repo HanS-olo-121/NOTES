@@ -20,7 +20,7 @@ notes:
 
 
 > [!tip] TL;DR
-How you present yourself in certain situations can change your credibility, authority, and people's look on you at those times. Whether it be a casual, formal, school, or business setting
+Rhetoric is how you present yourself in certain situations can change your credibility, authority, and people's look on you at those times. Whether it be a casual, formal, school, or business setting
 
 
 Rhetoric is about presenting a character that an audience will **TRUST**, and about both inspiring **PASSIONATE EMOTIONS** and structuring **RATIONAL ARGUMENTS**

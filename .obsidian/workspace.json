@@ -8,12 +8,30 @@
         "type": "tabs",
         "children": [
           {
+            "id": "3e9137eb722a190f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SCHOOL/English Comp I/Is Google Making Us Stupid.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "2411dabad4bd0999",
+        "type": "tabs",
+        "children": [
+          {
             "id": "388d3d6a679c8772",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SCHOOL/English Comp I/So You've Got a Writing Assignment.md",
+                "file": "NOTES/ENGLISH NOTES.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,7 +49,6 @@
       {
         "id": "c719207c455bc9e9",
         "type": "tabs",
-        "dimension": 64.02877697841727,
         "children": [
           {
             "id": "e9d395c56ab4f5bb",
@@ -67,21 +84,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "5a7b46cbf7bd1918",
-        "type": "tabs",
-        "dimension": 35.97122302158273,
-        "children": [
-          {
-            "id": "cac7289256b56526",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
@@ -101,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SCHOOL/English Comp I/So You've Got a Writing Assignment.md",
+                "file": "NOTES/ENGLISH NOTES.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SCHOOL/English Comp I/So You've Got a Writing Assignment.md",
+                "file": "NOTES/ENGLISH NOTES.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SCHOOL/English Comp I/So You've Got a Writing Assignment.md"
+                "file": "NOTES/ENGLISH NOTES.md"
               }
             }
           }
@@ -167,6 +169,18 @@
   },
   "active": "388d3d6a679c8772",
   "lastOpenFiles": [
+    "DAILY_NOTES/2023-09-06.md",
+    "SCHOOL/English Comp I/Is Google Making Us Stupid.md",
+    "DAILY_NOTES/2023-09-01.md",
+    "KANBAN/Planner.md",
+    "SCHOOL/English Comp I/Understanding Rhetoric -  Graphic Guide to Writing.md",
+    "SCHOOL/English Comp I/So You've Got a Writing Assignment.md",
+    "SCHOOL/English Comp I/Guilty Pleasure Essay/Straw Board.md",
+    "ASSETS/Pasted image 20230904110405.png",
+    "SCHOOL/English Comp I/Guilty Pleasure Essay",
+    "SCHOOL/English Comp I/Guide to Rhetoric, Genre, & Success in First Year Writing.md",
+    "DAILY_NOTES/2023-09-04.md",
+    "ASSETS/So-Youve-got-a-Writing-Assignment.pdf",
     "DAILY_NOTES/2023-08-30.md",
     "empty/ENGLISH NOTES.md",
     "empty",
@@ -175,20 +189,13 @@
     "NOTES",
     "ASSETS/Pasted image 20230830132307.png",
     "ASSETS/Pasted image 20230830133045.png",
-    "SCHOOL/English Comp I/Understanding Rhetoric -  Graphic Guide to Writing.md",
-    "SCHOOL/English Comp I/So You've Got a Writing Assignment.md",
-    "SCHOOL/English Comp I/Guide to Rhetoric, Genre, & Success in First Year Writing.md",
     "ASSETS/understanding-rhetoric-a-graphic-guide-to-writing--annas-archive (1).pdf",
     "aaa/ENGLISH NOTES.md",
     "aaa",
     "Untitled 1",
     "Remote",
     "Remote",
-    "Empty",
-    "SCHOOL/English Comp I/Is Google Making Us Stupid.md",
-    "KANBAN/Planner.md",
     "SCHOOL/English Comp I/Untitled.md",
-    "ASSETS",
     "TEMPLATES/ENGLISH NOTES.md",
     "KANBAN/Untitled.md",
     "DAILY_NOTES/2023-08-23.md",
@@ -200,8 +207,6 @@
     "DAILY_NOTES/2023-08-24.md",
     "PERSONAL/Breakcore/Breakcore.md",
     "PERSONAL/Breakcore/Microgenre.md",
-    "SCHOOL/Math/Terminology/FLASHCARD_FILE.md",
-    "SCHOOL/English/Book_Name/Theme - Thesis.md",
-    "SCHOOL/English/Book_Name/Chapter 1 Summary.md"
+    "SCHOOL/Math/Terminology/FLASHCARD_FILE.md"
   ]
 }
