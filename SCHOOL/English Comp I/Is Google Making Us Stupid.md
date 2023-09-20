@@ -11,7 +11,6 @@ notes:
 ---
 
 ---
-
 # [Is Google Making Us Stupid?](https://www.theatlantic.com/magazine/archive/2008/07/is-google-making-us-stupid/306868/)
 
 ---
