@@ -8,36 +8,36 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3e9137eb722a190f",
+            "id": "1ca9b8b21104641d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PERSONAL/Breakcore/Breakcore.md",
+                "file": "ATLAS/Rhetoric.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "6e0631e75efc1d10",
+            "id": "613fecb0bb3fca15",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DAILY_NOTES/2023-09-18.md",
+                "file": "Map.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "7fd66a4ee7e957ab",
+            "id": "a91004353b96376e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DAILY_NOTES/2023-09-20.md",
+                "file": "TEMPLATES/ENGLISH NOTE.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DAILY_NOTES/2023-09-20.md",
+                "file": "TEMPLATES/ENGLISH NOTE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DAILY_NOTES/2023-09-20.md",
+                "file": "TEMPLATES/ENGLISH NOTE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DAILY_NOTES/2023-09-20.md"
+                "file": "TEMPLATES/ENGLISH NOTE.md"
               }
             }
           },
@@ -184,46 +184,46 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "7fd66a4ee7e957ab",
+  "active": "a91004353b96376e",
   "lastOpenFiles": [
+    "TEMPLATES/STANDARD NOTE.md",
+    "TEMPLATES/ENGLISH NOTE.md",
+    "ATLAS/Cyber Security.md",
+    "Map.md",
+    "ATLAS/Rhetoric.md",
     "DAILY_NOTES/2023-09-20.md",
-    "KANBAN/Planner.md",
-    "DAILY_NOTES/2023-09-18.md",
-    "SCHOOL/English Comp I/Understanding Rhetoric -  Graphic Guide to Writing.md",
-    "SCHOOL/English Comp I/Is Google Making Us Stupid.md",
-    "SCHOOL/English Comp I/Guide to Rhetoric, Genre, & Success in First Year Writing.md",
-    "SCHOOL/English Comp I/Guilty Pleasure Essay/Straw Board.md",
     "DAILY_NOTES/2023-08-30.md",
-    "DAILY_NOTES/2023-08-28.md",
-    "DAILY_NOTES/2023-08-24.md",
+    "DAILY_NOTES/2023-09-11.md",
+    "DAILY_NOTES/2023-09-25.md",
+    "CARDS/Understanding Rhetoric -  Graphic Guide to Writing.md",
+    "PAPERS/Guilty Pleasure Essay/(GP) Straw Board.md",
+    "CARDS/Is Google Making Us Stupid.md",
+    "PAPERS/Rhetorical Analysis Essay",
+    "DAILY_NOTES/2023-09-24.md",
+    "DAILY_NOTES/2023-09-18.md",
+    "DAILY_NOTES/2023-09-13.md",
     "DAILY_NOTES/2023-08-23.md",
+    "DAILY_NOTES/2023-08-28.md",
+    "DAILY_NOTES/2023-09-06.md",
     "DAILY_NOTES/2023-09-01.md",
     "DAILY_NOTES/2023-09-04.md",
-    "DAILY_NOTES/2023-09-11.md",
-    "PERSONAL/Breakcore/Breakcore.md",
-    "DAILY_NOTES/2023-09-13.md",
-    "DAILY_NOTES/2023-09-06.md",
+    "PAPERS/Source Based Essay/Straw Board.md",
+    "ATLAS",
+    "!ENCOUNTERS",
     "NOTES/ENGLISH NOTES.md",
+    "DAILY_NOTES/2023-08-24.md",
+    "DAILY_NOTES/Guide to Rhetoric, Genre, & Success in First Year Writing.md",
     "SCHOOL/English Comp I/So You've Got a Writing Assignment.md",
+    "SCHOOL/English Comp I/Guide to Rhetoric, Genre, & Success in First Year Writing.md",
     "ASSETS/Pasted image 20230904110405.png",
-    "SCHOOL/English Comp I/Guilty Pleasure Essay",
+    "PAPERS/Guilty Pleasure Essay",
     "ASSETS/So-Youve-got-a-Writing-Assignment.pdf",
-    "empty/ENGLISH NOTES.md",
     "empty",
     "New folder",
     "NOTES",
     "ASSETS/Pasted image 20230830132307.png",
     "ASSETS/Pasted image 20230830133045.png",
     "ASSETS/understanding-rhetoric-a-graphic-guide-to-writing--annas-archive (1).pdf",
-    "aaa/ENGLISH NOTES.md",
-    "aaa",
-    "Untitled 1",
-    "Remote",
-    "Remote",
-    "SCHOOL/English Comp I/Untitled.md",
-    "TEMPLATES/ENGLISH NOTES.md",
-    "KANBAN/Untitled.md",
-    "SCHOOL/English/Terminology/Literacy.md",
-    "SCHOOL/Math/Unit 1/1.0.md"
+    "aaa"
   ]
 }

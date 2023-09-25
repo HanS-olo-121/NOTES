@@ -1,5 +1,6 @@
 {
   "newFileLocation": "current",
   "alwaysUpdateLinks": true,
-  "attachmentFolderPath": "ASSETS"
+  "attachmentFolderPath": "ASSETS",
+  "promptDelete": false
 }

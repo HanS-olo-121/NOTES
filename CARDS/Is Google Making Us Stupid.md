@@ -38,7 +38,7 @@ What we read isn't everything that matters, how we read really does. Over time, 
 
 Even the language matters, the Chinese have much different mental circuitry as opposed to one who speaks English, since they use individual characters for words as opposed to letters to form words
 
->[!important] A Case of Typewriters and language
+>[!important] A Case of Typewriters and Language
 >Sometime in 1882, Friedrich Nietzsche bought a typewriter—a Malling-Hansen Writing Ball, to be precise. His vision was failing, and keeping his eyes focused on a page had become exhausting and painful, often bringing on crushing headaches. He had been forced to curtail his writing, and he feared that he would soon have to give it up. The typewriter rescued him, at least for a time. Once he had mastered touch-typing, he was able to write with his eyes closed, using only the tips of his fingers. Words could once again flow from his mind to the page.
 
 Because of this, his writing style would actually change. his writing would go from "arguments to aphorisms, from thoughts to puns, from rhetoric to telegram style."
