@@ -13,19 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ATLAS/Rhetoric.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "613fecb0bb3fca15",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Map.md",
+                "file": "CARDS/Understanding Rhetoric -  Graphic Guide to Writing.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,14 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TEMPLATES/ENGLISH NOTE.md",
+                "file": "ATLAS/Rhetoric.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TEMPLATES/ENGLISH NOTE.md",
+                "file": "ATLAS/Rhetoric.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TEMPLATES/ENGLISH NOTE.md",
+                "file": "ATLAS/Rhetoric.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TEMPLATES/ENGLISH NOTE.md"
+                "file": "ATLAS/Rhetoric.md"
               }
             }
           },
@@ -186,18 +174,19 @@
   },
   "active": "a91004353b96376e",
   "lastOpenFiles": [
-    "TEMPLATES/STANDARD NOTE.md",
-    "TEMPLATES/ENGLISH NOTE.md",
-    "ATLAS/Cyber Security.md",
-    "Map.md",
-    "ATLAS/Rhetoric.md",
-    "DAILY_NOTES/2023-09-20.md",
-    "DAILY_NOTES/2023-08-30.md",
-    "DAILY_NOTES/2023-09-11.md",
-    "DAILY_NOTES/2023-09-25.md",
     "CARDS/Understanding Rhetoric -  Graphic Guide to Writing.md",
-    "PAPERS/Guilty Pleasure Essay/(GP) Straw Board.md",
+    "ATLAS/Rhetoric.md",
+    "Map.md",
+    "ASSETS/20230925_103108.jpg",
     "CARDS/Is Google Making Us Stupid.md",
+    "ATLAS/Cyber Security.md",
+    "DAILY_NOTES/2023-09-20.md",
+    "DAILY_NOTES/2023-09-25.md",
+    "DAILY_NOTES/2023-09-11.md",
+    "TEMPLATES/ENGLISH NOTE.md",
+    "TEMPLATES/STANDARD NOTE.md",
+    "DAILY_NOTES/2023-08-30.md",
+    "PAPERS/Guilty Pleasure Essay/(GP) Straw Board.md",
     "PAPERS/Rhetorical Analysis Essay",
     "DAILY_NOTES/2023-09-24.md",
     "DAILY_NOTES/2023-09-18.md",
@@ -214,7 +203,6 @@
     "DAILY_NOTES/2023-08-24.md",
     "DAILY_NOTES/Guide to Rhetoric, Genre, & Success in First Year Writing.md",
     "SCHOOL/English Comp I/So You've Got a Writing Assignment.md",
-    "SCHOOL/English Comp I/Guide to Rhetoric, Genre, & Success in First Year Writing.md",
     "ASSETS/Pasted image 20230904110405.png",
     "PAPERS/Guilty Pleasure Essay",
     "ASSETS/So-Youve-got-a-Writing-Assignment.pdf",
