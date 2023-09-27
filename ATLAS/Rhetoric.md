@@ -25,12 +25,15 @@ Aristotle defined it as "an ability, in each particular case, to see the availab
 
 - Ex: If one were writing a persuasive essay on climate change with the purpose of encouraging an audience, they might make a descriptive sad scene about polar bears not being able to survive do to ice caps melting. 
 - Think ASPCA commercials.
+- [[Everything's an Argument - Pathos]]
 ### Logos - Appeal to Logic
 
  - Use of reason or logic to support an argument
  - Statistics, facts credible testimony
 
  - Ex: Scientific Evidence, Peer Reviewed Research Papers
+ - [[Everything's an Argument - Logos]]
+ 
 
 ### Ethos - Appeal to Ethics
 
@@ -38,6 +41,7 @@ Aristotle defined it as "an ability, in each particular case, to see the availab
  - Addressing counter argument establishes authority
  - Maybe refer to your own values and morals
  - Andrew Huberman - Highly Respected Neurologist
+ - [[Everything's an Argument - Ethos]]
 
 --- 
 
@@ -60,6 +64,20 @@ Aristotle defined it as "an ability, in each particular case, to see the availab
 
 ![[20230925_103108.jpg]]
 
+
+--- 
+
+# Rhetorical Devices
+
+ - **Motif** - Recurrent device
+ - **Anecdote** - A brief story or tale told by a character
+ - **In medias res** - Opening a story in the middle of the action
+ - **Apostrophe** - A figure of speech in which a person, thing, or abstract is addressed as if it is present
+ - **Syllogism** - a form of deduction. An extremely subtle, sophisticated, or deceptive argument
+ - **Didactic** - Intended for teaching a moral lesson
+ - **Satire** - 
+ - **Begging the question** - to sidestep or evade the real problem 
+ - 
 
 ---
 

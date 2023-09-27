@@ -2,16 +2,23 @@
 tags:
   - note
   - english
-course:
-  - subject: English
-  - courseId: English 1110
-  - name: English Composition I
-  - instructor: Joee Goheen
-  - days: M,W
-date: 2023-09-04
+  - straws
+date:
+  "{ date }": 
+subject: English
+courseId: English 1110
+name: English Composition I
+instructor: Joee Goheen
+days: M,W
 notes:
 ---
 
+---
+## Related
+
+---
+
+## References
 # Why osu! is beneficial and fun, while not being repetitive and boring
 
 osu heavily boosts memory, pattern recognition and reaction time. 

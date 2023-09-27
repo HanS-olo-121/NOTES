@@ -4,33 +4,42 @@
     "type": "split",
     "children": [
       {
-        "id": "af0a764c3edfe315",
+        "id": "8b35d02489190aa2",
         "type": "tabs",
+        "dimension": 48.7075928917609,
         "children": [
           {
-            "id": "1ca9b8b21104641d",
+            "id": "d8d4a3e1e490d275",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CARDS/Understanding Rhetoric -  Graphic Guide to Writing.md",
+                "file": "DAILY_NOTES/2023-09-27.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "af0a764c3edfe315",
+        "type": "tabs",
+        "dimension": 51.29240710823909,
+        "children": [
           {
-            "id": "a91004353b96376e",
+            "id": "97129c9343074b99",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "ASSETS/Everything's an Argument Chapter 2; Pathos.pdf"
+                "file": "ATLAS/Rhetoric.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ASSETS/Everything's an Argument Chapter 2; Pathos.pdf",
+                "file": "DAILY_NOTES/2023-09-27.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ASSETS/Everything's an Argument Chapter 2; Pathos.pdf",
+                "file": "DAILY_NOTES/2023-09-27.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ASSETS/Everything's an Argument Chapter 2; Pathos.pdf"
+                "file": "DAILY_NOTES/2023-09-27.md"
               }
             }
           },
@@ -148,6 +157,14 @@
               "state": {
                 "sortOrder": "frequency"
               }
+            }
+          },
+          {
+            "id": "0724701ca9dd1f3a",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
             }
           }
         ]
@@ -170,45 +187,51 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "a91004353b96376e",
+  "active": "d8d4a3e1e490d275",
   "lastOpenFiles": [
-    "ASSETS/Everything's an Argument Chapter 3; Ethos.pdf",
-    "ASSETS/Everything's an Argument Chapter 4; Logos.pdf",
-    "ASSETS/So-Youve-got-a-Writing-Assignment.pdf",
-    "ATLAS/Cyber Security.md",
-    "ASSETS/Everything's an Argument Chapter 2; Pathos.pdf",
     "ATLAS/Rhetoric.md",
+    "DAILY_NOTES/2023-09-27.md",
     "CARDS/Is Google Making Us Stupid.md",
+    "DAILY_NOTES/2023-09-26.md",
+    "CARDS/Untitled.md",
+    "CARDS/Everything's an Argument - Pathos.md",
+    "CARDS/Providing lodical structure of an Argument.md",
     "CARDS/Understanding Rhetoric -  Graphic Guide to Writing.md",
-    "Map.md",
-    "ASSETS/20230925_103108.jpg",
-    "DAILY_NOTES/2023-09-20.md",
-    "DAILY_NOTES/2023-09-25.md",
-    "DAILY_NOTES/2023-09-11.md",
+    "CARDS/Everything's an Argument - Logos.md",
+    "CARDS/Everything's an Argument - Ethos.md",
+    "PAPERS/Guilty Pleasure Essay/Guilty Pleasure Essay Ideas.md",
+    "ASSETS/READINGS/Everything's an Argument Chapter 3; Ethos.pdf",
+    "ASSETS/READINGS/Everything's an Argument Chapter 4; Logos.pdf",
+    "PAPERS/Source Based Essay/Source Based Essay Ideas.md",
     "TEMPLATES/ENGLISH NOTE.md",
     "TEMPLATES/STANDARD NOTE.md",
+    "DAILY_NOTES/2023-09-25.md",
+    "DAILY_NOTES/2023-09-20.md",
+    "DAILY_NOTES/Invalid date.md",
+    "DAILY_NOTES/2023-09-11.md",
+    "ASSETS/READINGS",
+    "Map.md",
+    "ASSETS/EXCALIDRAW/Drawing 2023-09-25 11.55.28.excalidraw.md",
+    "ASSETS/EXCALIDRAW/Ethos2.excalidraw.md",
+    "ASSETS/Pasted Image 20230925115310_382.png",
+    "ASSETS/Pasted image 20230925115034.png",
+    "ASSETS/EXCALIDRAW/Ethos1.md",
+    "ASSETS/Pasted Image 20230925114315_664.png",
+    "CARDS/Pasted image 20230925114125.png.md",
+    "ASSETS/READINGS/So-Youve-got-a-Writing-Assignment.pdf",
+    "ASSETS/Pasted Image 20230925114206_164.png",
+    "ASSETS/Pasted image 20230904110405.png",
+    "ASSETS/Pasted image 20230925114125.png",
+    "ASSETS/EXCALIDRAW/Drawing 2023-09-25 11.41.51.excalidraw.md",
+    "ASSETS/EXCALIDRAW",
+    "ASSETS/READINGS/Everything's an Argument Chapter 2; Pathos.pdf",
+    "ATLAS/Cyber Security.md",
+    "ASSETS/20230925_103108.jpg",
     "DAILY_NOTES/2023-08-30.md",
-    "PAPERS/Guilty Pleasure Essay/(GP) Straw Board.md",
     "PAPERS/Rhetorical Analysis Essay",
-    "DAILY_NOTES/2023-09-24.md",
-    "DAILY_NOTES/2023-09-18.md",
-    "DAILY_NOTES/2023-09-13.md",
-    "DAILY_NOTES/2023-08-23.md",
-    "DAILY_NOTES/2023-08-28.md",
-    "DAILY_NOTES/2023-09-06.md",
-    "DAILY_NOTES/2023-09-01.md",
-    "DAILY_NOTES/2023-09-04.md",
-    "PAPERS/Source Based Essay/Straw Board.md",
     "ATLAS",
     "!ENCOUNTERS",
-    "NOTES/ENGLISH NOTES.md",
-    "DAILY_NOTES/2023-08-24.md",
-    "DAILY_NOTES/Guide to Rhetoric, Genre, & Success in First Year Writing.md",
-    "SCHOOL/English Comp I/So You've Got a Writing Assignment.md",
-    "ASSETS/Pasted image 20230904110405.png",
     "PAPERS/Guilty Pleasure Essay",
-    "empty",
-    "New folder",
     "ASSETS/Pasted image 20230830132307.png",
     "ASSETS/Pasted image 20230830133045.png"
   ]
