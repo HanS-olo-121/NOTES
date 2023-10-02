@@ -11,10 +11,11 @@ days: M,W
 date:
   "{ date }":
 ---
+
 # Analyzing Rhetorically - Prevalence of racial stereotypes in videogames
 
-1. Purpose - Inform about the prejudice and 
-2. Audience - 
+1. Purpose - Inform about the prejudice and stereotypes in video games.
+2. Audience - Parents, Experts in the field
 3. Genre - Informative Analytical essay
 4. Tone - Unbiased, Dry, Factual, Straightforward
 5. Diction - Informative, Statistical
@@ -32,24 +33,6 @@ date:
 	1. It is a good argument as it proves it does exist, but doesn't try to persuade you to any opinion
 
 
-# Analyzing Rhetorically - Notes of a Native Son
-
-1. Purpose - Inform of the challenges of a black person in the 1940s
-2. Audience - General public
-3. Genre - Diary, PSA
-4. Tone - Melancholic, Grief filled, 
-5. Diction - 
-6. Kairos - Start of the Civil Rights movement era  
-7. Arguments - Arguing against the unjust actions taken against him due to his race
-8. Supports - Personal Anecdotes
-9. Evidence - Personal Anecdotes
-10. Rhetorical appeals? Ethos? Pathos? Logos? Provide an example
-	1. Ethos and Pathos were very prevalent
-11. Other Rhetorical Strategies?
-12. How do you feel about this text? Is it reliable?
-	1. It seems fairly reliable as it came directly from someone dealing with these issues as they were happening
-13. Do you think it makes an effective argument?
-	1. Yes, as it shows the struggles of a black person in the 1940s 
 
 ---
 ## Related
@@ -57,3 +40,5 @@ date:
 ---
 
 ## References
+
+[[Playing With Prejudice The Prevalence and Consequences Of]]

@@ -1,0 +1,17 @@
+{
+  "token": "Q9S9Ti5kXMjpkTSi7uYBu7UY4Kziel4kaomqias1H1XI5EmvYY",
+  "readwiseDir": "Readwise",
+  "frequency": "0",
+  "triggerOnLoad": true,
+  "isSyncing": false,
+  "lastSyncFailed": false,
+  "lastSavedStatusID": 10708521,
+  "currentSyncStatusID": 0,
+  "refreshBooks": false,
+  "booksToRefresh": [],
+  "booksIDsMap": {
+    "Readwise/Articles/Playing With Prejudice The Prevalence and Consequences Of.md": "32565352",
+    "Readwise/Articles/Speech Entitled “Ain’t I a Woman”.md": "32565103"
+  },
+  "reimportShowConfirmation": true
+}

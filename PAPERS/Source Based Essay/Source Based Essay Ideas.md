@@ -37,3 +37,7 @@ Convenience sacrifices security - 2FA, Learning curve difficulties.
 
 - Don't make non-needed accounts for websites / use temp mail for these (buying something from a website you rarely visit)
 - ***Touch*** on cryptocurrencies / XMR vs BTC
+
+# Other
+
+![[Pasted image 20230929125704.png]]

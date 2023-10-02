@@ -84,4 +84,4 @@ Aristotle defined it as "an ability, in each particular case, to see the availab
 Resources: [41 Rhetorical Devices](https://www.thesaurus.com/e/writing/rhetorical-devices/)
 
 ---
-Related: [[Understanding Rhetoric -  Graphic Guide to Writing]], Daily Note: [[2023-09-20]]
+Related: [[Understanding Rhetoric -  Graphic Guide to Writing]], Daily Note: [[Joy - Zadie Smith]]

@@ -6,34 +6,14 @@
       {
         "id": "8b35d02489190aa2",
         "type": "tabs",
-        "dimension": 48.7075928917609,
         "children": [
           {
-            "id": "d8d4a3e1e490d275",
+            "id": "f152f16012e4ccf3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DAILY_NOTES/2023-09-27.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "af0a764c3edfe315",
-        "type": "tabs",
-        "dimension": 51.29240710823909,
-        "children": [
-          {
-            "id": "97129c9343074b99",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ATLAS/Rhetoric.md",
+                "file": "Readwise/Articles/Playing With Prejudice The Prevalence and Consequences Of.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DAILY_NOTES/2023-09-27.md",
+                "file": "Readwise/Articles/Playing With Prejudice The Prevalence and Consequences Of.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DAILY_NOTES/2023-09-27.md",
+                "file": "Readwise/Articles/Playing With Prejudice The Prevalence and Consequences Of.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DAILY_NOTES/2023-09-27.md"
+                "file": "Readwise/Articles/Playing With Prejudice The Prevalence and Consequences Of.md"
               }
             }
           },
@@ -187,51 +167,52 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "d8d4a3e1e490d275",
+  "active": "f152f16012e4ccf3",
   "lastOpenFiles": [
-    "ATLAS/Rhetoric.md",
-    "DAILY_NOTES/2023-09-27.md",
-    "CARDS/Is Google Making Us Stupid.md",
-    "DAILY_NOTES/2023-09-26.md",
-    "CARDS/Untitled.md",
-    "CARDS/Everything's an Argument - Pathos.md",
-    "CARDS/Providing lodical structure of an Argument.md",
+    "Readwise/Articles/Speech Entitled “Ain’t I a Woman”.md",
+    "CARDS/Writing Basics, Strategies, Myths.md",
     "CARDS/Understanding Rhetoric -  Graphic Guide to Writing.md",
+    "CARDS/Is Google Making Us Stupid.md",
+    "CARDS/Analyzing Rhetoric - Video Game Prejudice.md",
+    "CARDS/Analyzing Rhetoric - Baldwin.md",
+    "Readwise/Articles/Playing With Prejudice The Prevalence and Consequences Of.md",
+    "Readwise/Articles",
+    "Readwise",
+    "CARDS/Everything's an Argument - Pathos.md",
+    "CARDS/Joy - Zadie Smith.md",
     "CARDS/Everything's an Argument - Logos.md",
     "CARDS/Everything's an Argument - Ethos.md",
+    "DAILY_NOTES/2023-09-11.md",
+    "DAILY_NOTES/2023-10-02.md",
+    "DAILY_NOTES/2023-09-25.md",
+    "DAILY_NOTES/2023-09-26.md",
+    "DAILY_NOTES/2023-09-29.md",
+    "SCHOOL/English Comp I/So You've Got a Writing Assignment.md",
+    "SCHOOL/English Comp I",
+    "SCHOOL",
+    "PAPERS/Rhetorical Analysis Essay/Rhetorical Analysis Essay Ideas.md",
+    "PAPERS/Source Based Essay/Source Based Essay Ideas.md",
+    "ASSETS/Pasted image 20230929125704.png",
     "PAPERS/Guilty Pleasure Essay/Guilty Pleasure Essay Ideas.md",
+    "ATLAS/Rhetoric.md",
+    "CARDS/Providing lodical structure of an Argument.md",
     "ASSETS/READINGS/Everything's an Argument Chapter 3; Ethos.pdf",
     "ASSETS/READINGS/Everything's an Argument Chapter 4; Logos.pdf",
-    "PAPERS/Source Based Essay/Source Based Essay Ideas.md",
     "TEMPLATES/ENGLISH NOTE.md",
     "TEMPLATES/STANDARD NOTE.md",
-    "DAILY_NOTES/2023-09-25.md",
-    "DAILY_NOTES/2023-09-20.md",
     "DAILY_NOTES/Invalid date.md",
-    "DAILY_NOTES/2023-09-11.md",
     "ASSETS/READINGS",
     "Map.md",
-    "ASSETS/EXCALIDRAW/Drawing 2023-09-25 11.55.28.excalidraw.md",
-    "ASSETS/EXCALIDRAW/Ethos2.excalidraw.md",
     "ASSETS/Pasted Image 20230925115310_382.png",
     "ASSETS/Pasted image 20230925115034.png",
-    "ASSETS/EXCALIDRAW/Ethos1.md",
     "ASSETS/Pasted Image 20230925114315_664.png",
-    "CARDS/Pasted image 20230925114125.png.md",
     "ASSETS/READINGS/So-Youve-got-a-Writing-Assignment.pdf",
     "ASSETS/Pasted Image 20230925114206_164.png",
     "ASSETS/Pasted image 20230904110405.png",
     "ASSETS/Pasted image 20230925114125.png",
-    "ASSETS/EXCALIDRAW/Drawing 2023-09-25 11.41.51.excalidraw.md",
     "ASSETS/EXCALIDRAW",
     "ASSETS/READINGS/Everything's an Argument Chapter 2; Pathos.pdf",
-    "ATLAS/Cyber Security.md",
     "ASSETS/20230925_103108.jpg",
-    "DAILY_NOTES/2023-08-30.md",
-    "PAPERS/Rhetorical Analysis Essay",
-    "ATLAS",
-    "!ENCOUNTERS",
-    "PAPERS/Guilty Pleasure Essay",
     "ASSETS/Pasted image 20230830132307.png",
     "ASSETS/Pasted image 20230830133045.png"
   ]
