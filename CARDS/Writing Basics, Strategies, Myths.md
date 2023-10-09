@@ -57,9 +57,12 @@ At work, there are a few residents that like to cause a lot of trouble, and one 
 5. Don't use "I"
 	1. you can, in moderation. it doesn't have to be 100% objective because it cant
 
-# **Academic Writing Situation**
 
-#### Who is your audience?
+# Common Mistakes
 
- - Primarily the professor and possibly your classmates
-
+- Mistaking opinion for fact
+- Attacking a character or identity instead of the argument
+- Presenting an issue as black and white
+- Oversimplifying / generalization
+- Over reliance on authorities
+- Misleading audience

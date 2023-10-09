@@ -5,13 +5,18 @@
   "triggerOnLoad": true,
   "isSyncing": false,
   "lastSyncFailed": false,
-  "lastSavedStatusID": 10708521,
+  "lastSavedStatusID": 10813486,
   "currentSyncStatusID": 0,
   "refreshBooks": false,
   "booksToRefresh": [],
   "booksIDsMap": {
-    "Readwise/Articles/Playing With Prejudice The Prevalence and Consequences Of.md": "32565352",
-    "Readwise/Articles/Speech Entitled “Ain’t I a Woman”.md": "32565103"
+    "READWISE/Articles/Playing With Prejudice The Prevalence and Consequences Of.md": "32565352",
+    "READWISE/Articles/Speech Entitled “Ain’t I a Woman”.md": "32565103",
+    "Readwise/Articles/Charles Krauthammer.md": "32655448",
+    "Readwise/Articles/The Ones Who Walk Away From Omelas Ursula K  Le Guin Audiobook.md": "32805002",
+    "Readwise/Articles/A Guide to Rhetoric, Genre, and Success in First-Year Writing.md": "32939655",
+    "Readwise/Articles/The Project Gutenberg eBook of a Modest Proposal, by Jonathan Swift.md": "32939916",
+    "Readwise/Articles/Letter From Birmingham Jail.md": "33004908"
   },
   "reimportShowConfirmation": true
 }
