@@ -1,39 +1,18 @@
-# A Guide to Rhetoric, Genre, and Success in First-Year Writing
-
-![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article2.74d541386bbf.png)
-
-## Metadata
-- Author: [[Melanie Gagich & Emilie Zickel]]
-- Full Title: A Guide to Rhetoric, Genre, and Success in First-Year Writing
-- Category: #articles
-- URL: https://pressbooks.ulib.csuohio.edu/csu-fyw-rhetoric/chapter/8-2-arguing/
-
-## Creating an Effective Argument
-- the purpose of argument in the college setting is not to solve a practical problem or shut down a conversation. Rather, it’s to illuminate, expand, and further inform a debate happening on a worthwhile subject between reasonable, intelligent people ([View Highlight](https://read.readwise.io/read/01hc5mnevc1d1zxdgkw2n61ekz))
-    - Tags: [[key point]] 
-    - Note: Key Point
-
-- To have a logically sound argument, you should include:
-  • A debatable and supportable claim
-  • Logical reasoning to support your claim
-  • Sound evidence and examples to justify the reasoning
-  • Reasonable projections
-  • Concessions & rebuttals
-  • You should avoid logical fallacies ([View Highlight](https://read.readwise.io/read/01hc5msd60365r2yd4cmsf2kq1))
-- Still, college writing often puts more emphasis on logos and ethos. ([View Highlight](https://read.readwise.io/read/01hc5myksz3mbavp9amv8ck36f))
-	- It is organized so that  the argument has a fluid building of ideas, one onto the other, in order to produce the most persuasive impact or effect on the reader ([View Highlight](https://read.readwise.io/read/01hc5mzbbdtntvk1hm2fm3pbx0))
-- avoid repeating ideas, reasons, or evidence ([View Highlight](https://read.readwise.io/read/01hc5mzhg6wkmzq06f4b0y7jv5))
-    - Tags: [[important]] 
-    - Note: !!!! IMPORTANT !!!!
-- Academics generally favor Standard American English and the use of precise language that avoids idiom and cliché or dull or simple word choices. ([View Highlight](https://read.readwise.io/read/01hc5n1edn8e8qcrktgwz449r5))
-- It is important to understand what kind of style of writing your audience expects, as delivering your argument in that style could make it more persuasive. ([View Highlight](https://read.readwise.io/read/01hc5n2m5wwdc2j5mbj1crc75d))
-    - Tags: [[important]] 
+---
+"up::": "[[Rhetoric]]"
+tags:
+  - note
+  - english
+subject: English
+courseId: English 1110
+name: English Composition I
+instructor: Joee Goheen
+days: M,W
+date: 2023-10-04
+---
 
 
-## Logical Fallacies
-
-URL: https://pressbooks.ulib.csuohio.edu/csu-fyw-rhetoric/chapter/logical-fallacies/
-
+## Logical Fallacy - Readwise Highlight
 - Logical Fallacies – A Short List
   1. **Generalization** – *A conclusion or judgment made from insufficient evidence.* When one piece of evidence or information is used to make a broad conclusion or statement.
   2. **Cherry picking** – *Picking and choosing only some of the available evidence in order to present only points most favorable to your point of view.* If someone knowingly chooses certain (favorable) pieces of information and conveniently ignores less favorable information, then the argument is not supported by all of the available research.
@@ -43,4 +22,15 @@ URL: https://pressbooks.ulib.csuohio.edu/csu-fyw-rhetoric/chapter/logical-fallac
   6. **Ad Populum** – *A misused reference to popularly accepted values.* For instance: “This is about freedom and righteousness, and if you believe in those things, then you should believe my argument.” This is an example of **misused ethos** – when the author is referencing the values that the audience cares about so that they think only about the values and not about the content of the argument (or, likely, the fact that there is little intellectual substance in what is being said).
   7. **Either/or** – – *This is an argument that attempts to create a situation of absolutes with no options in between*. For example: “Either we intervene or we are basically no better than the Nazis.” This thinking is fallacious because it assumes that there are only two options, with nothing in between.
   8. **Slippery Slope –** *T**his is a fallacy that assumes that one thing is going to have a series of consequences or effects–often leading to a worst-case scenario.* For example: “If we let this happen, then that will happen and then the worst possible thing will happen.” It is false reasoning because 1) it’s impossible to predict the future, 2) it is illogical to suggest that one action will always necessarily lead to the worst possible outcome, and 3) it assumes a very specific chain of future events. This “if we let this happen there will be some horrible end” is **misuse of cause/effect reasoning**, often with some pathos (fear) sprinkled in. ([View Highlight](https://read.readwise.io/read/01hce40zksc6140fcy73fwy95z))
-    - Tags: [[key point]] [[important]] 
+
+## Related
+
+- [[READWISE/Articles/A Guide to Rhetoric, Genre, and Success in First-Year Writing|A Guide to Rhetoric, Genre, and Success in First-Year Writing]]
+- [[Rhetoric]]
+- [[Everything's an Argument - Logos]]
+
+---
+
+## References
+
+https://pressbooks.ulib.csuohio.edu/csu-fyw-rhetoric/chapter/logical-fallacies/

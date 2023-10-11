@@ -33,6 +33,7 @@ Aristotle defined it as "an ability, in each particular case, to see the availab
 
  - Ex: Scientific Evidence, Peer Reviewed Research Papers
  - [[Everything's an Argument - Logos]]
+ - [[READWISE/Articles/A Guide to Rhetoric, Genre, and Success in First-Year Writing|CHeck Out The Logical Fallacy Section]]
  
 
 ### Ethos - Appeal to Ethics

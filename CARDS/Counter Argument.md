@@ -1,5 +1,5 @@
 ---
-"up::": 
+"up::": "[[Rhetoric]]"
 tags:
   - note
   - english

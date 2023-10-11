@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "8b35d02489190aa2",
+        "id": "22e7583c0af1f87f",
         "type": "tabs",
         "children": [
           {
-            "id": "929d6b4ee986f5f3",
+            "id": "972173e942f779bb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CARDS/Counter Argument.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ad7b97479bf36bca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CARDS/Writing Basics, Strategies, Myths.md",
+                "file": "ATLAS/Rhetoric.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -44,6 +31,7 @@
       {
         "id": "c719207c455bc9e9",
         "type": "tabs",
+        "dimension": 74.3421052631579,
         "children": [
           {
             "id": "e9d395c56ab4f5bb",
@@ -79,6 +67,48 @@
             }
           }
         ]
+      },
+      {
+        "id": "4d389779c8bc1291",
+        "type": "tabs",
+        "dimension": 25.657894736842106,
+        "children": [
+          {
+            "id": "b390d736b3571a16",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "ATLAS/Rhetoric.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 2,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.21585142827266107,
+                  "close": true
+                }
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -98,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CARDS/Writing Basics, Strategies, Myths.md",
+                "file": "ATLAS/Rhetoric.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CARDS/Writing Basics, Strategies, Myths.md",
+                "file": "ATLAS/Rhetoric.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CARDS/Writing Basics, Strategies, Myths.md"
+                "file": "ATLAS/Rhetoric.md"
               }
             }
           },
@@ -180,34 +210,34 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "ad7b97479bf36bca",
+  "active": "b390d736b3571a16",
   "lastOpenFiles": [
-    "DAILY_NOTES/2023-09-11.md",
+    "CARDS/Analyzing Rhetoric - A Letter from Birmingham Jail.md",
+    "CARDS/Analyzing Rhetoric - Baldwin.md",
+    "CARDS/Counter Argument.md",
+    "CARDS/Logical Fallacies.md",
+    "CARDS/Is Google Making Us Stupid.md",
+    "READWISE/Articles/The Ones Who Walk Away From Omelas Ursula K  Le Guin Audiobook.md",
+    "Du Bon Mot.md",
+    "READWISE/Articles/A Guide to Rhetoric, Genre, and Success in First-Year Writing.md",
+    "READWISE/Articles/Letter From Birmingham Jail.md",
+    "READWISE/Articles/Charles Krauthammer.md",
+    "CARDS/Joy - Zadie Smith.md",
+    "CARDS/Analyzing Rhetoric - Video Game Prejudice.md",
+    "CARDS/Everything's an Argument - Ethos.md",
+    "ATLAS/Rhetoric.md",
+    "READWISE/Articles/Untitled.md",
+    "READWISE/Articles/Untitled 1.md",
+    "READWISE/Articles/Playing With Prejudice The Prevalence and Consequences Of.md",
+    "READWISE/Articles/The Project Gutenberg eBook of a Modest Proposal, by Jonathan Swift.md",
     "CARDS/Writing Basics, Strategies, Myths.md",
+    "DAILY_NOTES/2023-09-11.md",
     "DAILY_NOTES/2023-10-02.md",
     "DAILY_NOTES/2023-10-04.md",
     "DAILY_NOTES/2023-10-09.md",
-    "ATLAS/Rhetoric.md",
-    "READWISE/Articles/A Guide to Rhetoric, Genre, and Success in First-Year Writing.md",
-    "READWISE/Articles/The Project Gutenberg eBook of a Modest Proposal, by Jonathan Swift.md",
-    "READWISE/Articles/The Ones Who Walk Away From Omelas Ursula K  Le Guin Audiobook.md",
     "READWISE/Articles/Speech Entitled “Ain’t I a Woman”.md",
-    "READWISE/Articles/Playing With Prejudice The Prevalence and Consequences Of.md",
-    "READWISE/Articles/Charles Krauthammer.md",
-    "CARDS/Counter Argument.md",
-    "CARDS/Analyzing Rhetoric - A Letter from Birmingham Jail.md",
-    "CARDS/Analyzing Rhetoric - Video Game Prejudice.md",
-    "CARDS/Is Google Making Us Stupid.md",
-    "CARDS/Joy - Zadie Smith.md",
     "CARDS/Everything's an Argument - Logos.md",
-    "READWISE/Articles/Letter From Birmingham Jail.md",
     "Readwise/Articles/Letter From Birmingham Jail.md",
-    "CARDS/Everything's an Argument - Pathos.md",
-    "CARDS/Everything's an Argument - Ethos.md",
-    "CARDS/The Ones Who Walk Away From Omelas.md",
-    "Readwise/Articles/The Project Gutenberg eBook of a Modest Proposal, by Jonathan Swift.md",
-    "Readwise/Articles/The Ones Who Walk Away From Omelas Ursula K  Le Guin Audiobook.md",
-    "Readwise/Articles/Speech Entitled “Ain’t I a Woman”.md",
     "Readwise/Articles",
     "READWISE/Articles",
     "READWISE",
