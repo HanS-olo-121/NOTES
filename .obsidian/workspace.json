@@ -11,15 +11,24 @@
             "id": "972173e942f779bb",
             "type": "leaf",
             "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "57ad41a9563fb9a5",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "ATLAS/Rhetoric.md",
+                "file": "CARDS/Genre, Form, and The Rhetorical Situation.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -71,7 +80,7 @@
       {
         "id": "4d389779c8bc1291",
         "type": "tabs",
-        "dimension": 25.657894736842106,
+        "dimension": 25.657894736842103,
         "children": [
           {
             "id": "b390d736b3571a16",
@@ -79,7 +88,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "ATLAS/Rhetoric.md",
+                "file": "CARDS/Genre, Form, and The Rhetorical Situation.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -128,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ATLAS/Rhetoric.md",
+                "file": "CARDS/Genre, Form, and The Rhetorical Situation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ATLAS/Rhetoric.md",
+                "file": "CARDS/Genre, Form, and The Rhetorical Situation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ATLAS/Rhetoric.md"
+                "file": "CARDS/Genre, Form, and The Rhetorical Situation.md"
               }
             }
           },
@@ -210,35 +219,35 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "b390d736b3571a16",
+  "active": "57ad41a9563fb9a5",
   "lastOpenFiles": [
+    "TEMPLATES/ENGLISH NOTE.md",
+    "DAILY_NOTES/2023-10-16.md",
+    "DAILY_NOTES/2023-10-04.md",
+    "TEMPLATES/STANDARD NOTE.md",
+    "CARDS/Genre, Form, and The Rhetorical Situation.md",
+    "CARDS/Everything's an Argument - Ethos.md",
+    "ATLAS/Rhetoric.md",
+    "CARDS/Untitled.md",
     "CARDS/Analyzing Rhetoric - A Letter from Birmingham Jail.md",
+    "Readwise/Articles/The Pain Scale.md",
+    "DAILY_NOTES/2023-10-12.md",
+    "READWISE/Articles/The Pain Scale.md",
+    "READWISE/Articles/Document.md",
+    "Readwise/Articles/The Project Gutenberg eBook of a Modest Proposal, by Jonathan Swift.md",
+    "Readwise/Articles/The Ones Who Walk Away From Omelas Ursula K  Le Guin Audiobook.md",
+    "Readwise/Articles/Speech Entitled “Ain’t I a Woman”.md",
+    "Readwise/Articles/Playing With Prejudice The Prevalence and Consequences Of.md",
+    "Readwise/Articles/Letter From Birmingham Jail.md",
+    "Readwise/Articles/Document.md",
+    "Readwise/Articles/Charles Krauthammer.md",
+    "Readwise/Articles/A Guide to Rhetoric, Genre, and Success in First-Year Writing.md",
+    "Readwise/Articles",
     "CARDS/Analyzing Rhetoric - Baldwin.md",
     "CARDS/Counter Argument.md",
     "CARDS/Logical Fallacies.md",
     "CARDS/Is Google Making Us Stupid.md",
     "READWISE/Articles/The Ones Who Walk Away From Omelas Ursula K  Le Guin Audiobook.md",
-    "Du Bon Mot.md",
-    "READWISE/Articles/A Guide to Rhetoric, Genre, and Success in First-Year Writing.md",
-    "READWISE/Articles/Letter From Birmingham Jail.md",
-    "READWISE/Articles/Charles Krauthammer.md",
-    "CARDS/Joy - Zadie Smith.md",
-    "CARDS/Analyzing Rhetoric - Video Game Prejudice.md",
-    "CARDS/Everything's an Argument - Ethos.md",
-    "ATLAS/Rhetoric.md",
-    "READWISE/Articles/Untitled.md",
-    "READWISE/Articles/Untitled 1.md",
-    "READWISE/Articles/Playing With Prejudice The Prevalence and Consequences Of.md",
-    "READWISE/Articles/The Project Gutenberg eBook of a Modest Proposal, by Jonathan Swift.md",
-    "CARDS/Writing Basics, Strategies, Myths.md",
-    "DAILY_NOTES/2023-09-11.md",
-    "DAILY_NOTES/2023-10-02.md",
-    "DAILY_NOTES/2023-10-04.md",
-    "DAILY_NOTES/2023-10-09.md",
-    "READWISE/Articles/Speech Entitled “Ain’t I a Woman”.md",
-    "CARDS/Everything's an Argument - Logos.md",
-    "Readwise/Articles/Letter From Birmingham Jail.md",
-    "Readwise/Articles",
     "READWISE/Articles",
     "READWISE",
     "SCHOOL/English Comp I",
