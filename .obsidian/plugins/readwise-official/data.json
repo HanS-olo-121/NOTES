@@ -5,20 +5,12 @@
   "triggerOnLoad": true,
   "isSyncing": false,
   "lastSyncFailed": false,
-  "lastSavedStatusID": 10917090,
+  "lastSavedStatusID": 11267315,
   "currentSyncStatusID": 0,
-  "refreshBooks": false,
+  "refreshBooks": true,
   "booksToRefresh": [],
   "booksIDsMap": {
-    "READWISE/Articles/Playing With Prejudice The Prevalence and Consequences Of.md": "32565352",
-    "READWISE/Articles/Speech Entitled “Ain’t I a Woman”.md": "32565103",
-    "Readwise/Articles/Charles Krauthammer.md": "32655448",
-    "Readwise/Articles/The Ones Who Walk Away From Omelas Ursula K  Le Guin Audiobook.md": "32805002",
-    "Readwise/Articles/A Guide to Rhetoric, Genre, and Success in First-Year Writing.md": "33054433",
-    "Readwise/Articles/The Project Gutenberg eBook of a Modest Proposal, by Jonathan Swift.md": "32939916",
-    "Readwise/Articles/Letter From Birmingham Jail.md": "33004908",
-    "Readwise/Articles/Document.md": "33071283",
-    "Readwise/Articles/The Pain Scale.md": "33082287"
+    "Readwise/Articles/Paradise Bombed.md": "33308949"
   },
   "reimportShowConfirmation": true
 }

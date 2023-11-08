@@ -25,5 +25,14 @@
       ],
       "key": "ArrowLeft"
     }
+  ],
+  "readwise-official:readwise-official-reimport-file": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "'"
+    }
   ]
 }
