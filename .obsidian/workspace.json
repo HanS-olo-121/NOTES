@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a9d7228a17d0a6bc",
+        "id": "9cee0599f6336067",
         "type": "tabs",
         "children": [
           {
-            "id": "f5a521a742bd2aae",
+            "id": "ab053a232f967693",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "879575544897a597",
+            "id": "dd8f192abfb93362",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PAPERS/Source Based Essay/IDEA - The Impact of Big Tech Data Collection on Individual and Societal Security.md",
+                "file": "DAILY_NOTES/2023-12-05.md",
                 "mode": "source",
                 "source": false
               }
@@ -92,7 +92,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "PAPERS/Source Based Essay/IDEA - The Impact of Big Tech Data Collection on Individual and Societal Security.md",
+                "file": "DAILY_NOTES/2023-12-05.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -115,7 +115,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.21585142827266107,
+                  "scale": 0.020795129020462988,
                   "close": true
                 }
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PAPERS/Source Based Essay/IDEA - The Impact of Big Tech Data Collection on Individual and Societal Security.md",
+                "file": "DAILY_NOTES/2023-12-05.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +158,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PAPERS/Source Based Essay/IDEA - The Impact of Big Tech Data Collection on Individual and Societal Security.md",
+                "file": "DAILY_NOTES/2023-12-05.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,7 +181,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PAPERS/Source Based Essay/IDEA - The Impact of Big Tech Data Collection on Individual and Societal Security.md"
+                "file": "DAILY_NOTES/2023-12-05.md"
               }
             }
           },
@@ -223,35 +223,36 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "879575544897a597",
+  "active": "dd8f192abfb93362",
   "lastOpenFiles": [
-    "PAPERS/Source Based Essay/Misc In-Class Notes.md",
-    "PAPERS/Source Based Essay/IDEA - The Impact of Big Tech Data Collection on Individual and Societal Security.md",
-    "READWISE/Articles/Paradise Bombed.md",
-    "READWISE/Articles/Letter From Birmingham Jail.md",
-    "READWISE/Articles/The Project Gutenberg eBook of a Modest Proposal, by Jonathan Swift.md",
-    "DAILY_NOTES/2023-11-08.md",
-    "PAPERS/Rhetorical Analysis Essay/Rhetorical Analysis Essay Board.md",
-    "PAPERS/Source Based Essay/Untitled 1.md",
-    "READWISE/Articles/Charles Krauthammer.md",
-    "READWISE/Articles/Psilocybin in Treatment Resistant Depression Patients.md",
-    "DAILY_NOTES/2023-11-06.md",
-    "Readwise/Articles/The Project Gutenberg eBook of a Modest Proposal, by Jonathan Swift.md",
-    "Readwise/Articles/The Pain Scale.md",
-    "Readwise/Articles/The Ones Who Walk Away From Omelas Ursula K  Le Guin Audiobook.md",
-    "Readwise/Articles/Speech Entitled “Ain’t I a Woman”.md",
+    "Readwise/Articles/It's Time to Take Psilocybin Seriously as a Possible Treatment for Substance Use Disorders.md",
+    "Readwise/Articles/Researchers Hope Psilocybin Could Improve Quit Rates for Smokers.md",
+    "Readwise/Articles/Analysis of Psilocybin-Assisted Therapy in Medicine A Narrative Review.md",
+    "DAILY_NOTES/2023-12-05.md",
     "Readwise/Articles/Playing With Prejudice The Prevalence and Consequences Of.md",
-    "Readwise/Articles/Paradise Bombed.md",
-    "Readwise/Articles/Letter From Birmingham Jail.md",
-    "Readwise/Articles/Document.md",
-    "Readwise/Articles/Charles Krauthammer.md",
     "Readwise/Articles/A Guide to Rhetoric, Genre, and Success in First-Year Writing.md",
+    "DAILY_NOTES/2023-11-24.md",
+    "Readwise/Articles/Single Dose of Psilocybin Improves Depressive Symptoms in Phase 2 Study.md",
+    "PAPERS/Source Based Essay/MAIN TOPIC - The Effectiveness of Psilocybin Therapy for Drug Abuse and Depression.md",
+    "PAPERS/Source Based Essay/Misc In-Class Notes.md",
+    "DAILY_NOTES/2023-11-15.md",
+    "DAILY_NOTES/2023-11-20.md",
+    "PAPERS/Source Based Essay/IDEA - The Impact of Big Tech Data Collection on Individual and Societal Security.md",
+    "DAILY_NOTES/2023-11-08.md",
+    "CARDS/Everything's an Argument - Ethos.md",
+    "CARDS/Counter Argument.md",
+    "CARDS/Analyzing Rhetoric - Baldwin.md",
+    "CARDS/Writing Basics, Strategies, Myths.md",
+    "CARDS/Everything's an Argument - Logos.md",
+    "CARDS/The Ones Who Walk Away From Omelas.md",
+    "Readwise/Articles/Paradise Bombed.md",
+    "Readwise/Articles/The Pain Scale.md",
+    "Readwise/Articles/Document.md",
+    "Readwise/Articles/A Guide to Rhetoric, Genre, and Success in First-Year Writing-2.md",
+    "Readwise/Articles/Letter From Birmingham Jail.md",
+    "Readwise/Articles/The Project Gutenberg eBook of a Modest Proposal, by Jonathan Swift.md",
     "Readwise/Articles",
-    "DAILY_NOTES/2023-10-26.md",
-    "READWISE/Articles/pathos.md",
-    "READWISE/Articles/Playing With Prejudice The Prevalence and Consequences Of.md",
-    "READWISE/Articles/The Ones Who Walk Away From Omelas Ursula K  Le Guin Audiobook.md",
-    "READWISE/Articles/The Pain Scale.md",
+    "Readwise",
     "READWISE/Articles",
     "READWISE",
     "SCHOOL/English Comp I",
@@ -267,7 +268,6 @@
     "ASSETS/Pasted Image 20230925114206_164.png",
     "ASSETS/Pasted image 20230904110405.png",
     "ASSETS/Pasted image 20230925114125.png",
-    "ASSETS/EXCALIDRAW",
     "ASSETS/20230925_103108.jpg",
     "ASSETS/Pasted image 20230830132307.png",
     "ASSETS/Pasted image 20230830133045.png"

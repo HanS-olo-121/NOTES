@@ -12,9 +12,7 @@
 ## Highlights
 - the horse being the only animal who has adopted our ceremonies as his own ([View Highlight](https://read.readwise.io/read/01hbw55yr8g5wfj0mjhj2x6wr2))
     - Note: Narrarator lives in Omelas
-## New highlights added October 4, 2023 at 9:45 AM
 - Happiness is based on a just discrimination of what is necessary, what is neither necessary nor destructive, and what is destructive ([View Highlight](https://read.readwise.io/read/01hbxeyq9rwvm86dv3tgsgqejr))
     - Note: Main Point
-## New highlights added October 7, 2023 at 2:06 PM
 - One thing I know there is none of in Omelas is guilt ([View Highlight](https://read.readwise.io/read/01hbxgevxt38n5x9f7pgg3pzxv))
     - Note: None

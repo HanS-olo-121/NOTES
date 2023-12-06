@@ -20,6 +20,7 @@ days: M,W
 
 Keeping yourself safe in the web of the internet, and keeping your data private and secure. 
 
+**The importance of keeping yourself safe in the cyberspace.**
 
 Cyber Security is not very well understood and the data that is stolen from you with your "consent" as most people are not as well informed on the shitty and shady practices of big tech and how to protect yourself from these.  
 

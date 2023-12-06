@@ -11,4 +11,4 @@
 ## Highlights
 - I have borne thirteen children, and seen most all sold off to slavery, and when I cried out with my mother’s grief, none but Jesus heard me! And ain’t I a woman? ([View Highlight](https://read.readwise.io/read/01hba42kxq0f6k8bhjx1c81b9h))
     - Note: Ethos Displayed Here
-- Then that little man in black there, he says women can’t have as much rights as men, ‘cause Christ wasn’t a woman! Where did your Christ come from? ([View Highlight](https://read.readwise.io/read/01hbr9k9nvqd334n67zs0akg9v))
+- Then that little man in black there, he says women can’t have as much rights as men, ‘cause Christ wasn’t a woman! Where did your Christ ([View Highlight](https://read.readwise.io/read/01hbr9k9nvqd334n67zs0akg9v))

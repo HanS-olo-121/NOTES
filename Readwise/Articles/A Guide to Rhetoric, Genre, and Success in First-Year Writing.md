@@ -8,11 +8,10 @@
 - Category: #articles
 - URL: https://pressbooks.ulib.csuohio.edu/csu-fyw-rhetoric/chapter/8-2-arguing/
 
-## Creating an Effective Argument
-- the purpose of argument in the college setting is not to solve a practical problem or shut down a conversation. Rather, it’s to illuminate, expand, and further inform a debate happening on a worthwhile subject between reasonable, intelligent people ([View Highlight](https://read.readwise.io/read/01hc5mnevc1d1zxdgkw2n61ekz))
+## Highlights
+- but the purpose of argument in the college setting is not to solve a practical problem or shut down a conversation. Rather, it’s to illuminate, expand, and further inform a debate happening on a worthwhile subject between reasonable, intelligent people ([View Highlight](https://read.readwise.io/read/01hc5mnevc1d1zxdgkw2n61ekz))
     - Tags: [[key point]] 
     - Note: Key Point
-
 - To have a logically sound argument, you should include:
   • A debatable and supportable claim
   • Logical reasoning to support your claim
@@ -21,26 +20,10 @@
   • Concessions & rebuttals
   • You should avoid logical fallacies ([View Highlight](https://read.readwise.io/read/01hc5msd60365r2yd4cmsf2kq1))
 - Still, college writing often puts more emphasis on logos and ethos. ([View Highlight](https://read.readwise.io/read/01hc5myksz3mbavp9amv8ck36f))
-	- It is organized so that  the argument has a fluid building of ideas, one onto the other, in order to produce the most persuasive impact or effect on the reader ([View Highlight](https://read.readwise.io/read/01hc5mzbbdtntvk1hm2fm3pbx0))
+- It is organized so that the argument has a fluid building of ideas, one onto the other, in order to produce the most persuasive impact or effect on the reader ([View Highlight](https://read.readwise.io/read/01hc5mzbbdtntvk1hm2fm3pbx0))
 - avoid repeating ideas, reasons, or evidence ([View Highlight](https://read.readwise.io/read/01hc5mzhg6wkmzq06f4b0y7jv5))
     - Tags: [[important]] 
     - Note: !!!! IMPORTANT !!!!
 - Academics generally favor Standard American English and the use of precise language that avoids idiom and cliché or dull or simple word choices. ([View Highlight](https://read.readwise.io/read/01hc5n1edn8e8qcrktgwz449r5))
 - It is important to understand what kind of style of writing your audience expects, as delivering your argument in that style could make it more persuasive. ([View Highlight](https://read.readwise.io/read/01hc5n2m5wwdc2j5mbj1crc75d))
     - Tags: [[important]] 
-
-
-## Logical Fallacies
-
-URL: https://pressbooks.ulib.csuohio.edu/csu-fyw-rhetoric/chapter/logical-fallacies/
-
-- Logical Fallacies – A Short List
-  1. **Generalization** – *A conclusion or judgment made from insufficient evidence.* When one piece of evidence or information is used to make a broad conclusion or statement.
-  2. **Cherry picking** – *Picking and choosing only some of the available evidence in order to present only points most favorable to your point of view.* If someone knowingly chooses certain (favorable) pieces of information and conveniently ignores less favorable information, then the argument is not supported by all of the available research.
-  3. **Straw Man –** *An oversimplification of an opposing perspective so that it becomes easy to attac*k. This is unfair and illogical because when one oversimplifies or inaccurately represents an argument and refutes that oversimplified version, one is not actually addressing the argument.
-  4. **Red Herring –** *Changing topics to avoid the point being discussed.* This is an argument tactic in which one attempts to change the conversation, often by bringing up information that is not relevant to the claim or point being debated, in order to try to control the conversation. This can be a way to avoid having to address or answer the question at hand, and it harms the quality of an argument.
-  5. **Ad Hominem** – *It is a personal attack rather than a way of engaging with someone’s ideas.* For example: “You are an idiot! That’s why you’re wrong!” This type of logical fallacy occurs when an arguer attacks or insults *the person* making opposing arguments instead of attacking the ideas, the logic, or the evidence within the opposing argument itself. It is a personal attack rather than a way of engaging with someone’s ideas.
-  6. **Ad Populum** – *A misused reference to popularly accepted values.* For instance: “This is about freedom and righteousness, and if you believe in those things, then you should believe my argument.” This is an example of **misused ethos** – when the author is referencing the values that the audience cares about so that they think only about the values and not about the content of the argument (or, likely, the fact that there is little intellectual substance in what is being said).
-  7. **Either/or** – – *This is an argument that attempts to create a situation of absolutes with no options in between*. For example: “Either we intervene or we are basically no better than the Nazis.” This thinking is fallacious because it assumes that there are only two options, with nothing in between.
-  8. **Slippery Slope –** *T**his is a fallacy that assumes that one thing is going to have a series of consequences or effects–often leading to a worst-case scenario.* For example: “If we let this happen, then that will happen and then the worst possible thing will happen.” It is false reasoning because 1) it’s impossible to predict the future, 2) it is illogical to suggest that one action will always necessarily lead to the worst possible outcome, and 3) it assumes a very specific chain of future events. This “if we let this happen there will be some horrible end” is **misuse of cause/effect reasoning**, often with some pathos (fear) sprinkled in. ([View Highlight](https://read.readwise.io/read/01hce40zksc6140fcy73fwy95z))
-    - Tags: [[key point]] [[important]] 

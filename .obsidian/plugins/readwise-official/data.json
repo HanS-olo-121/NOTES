@@ -5,12 +5,29 @@
   "triggerOnLoad": true,
   "isSyncing": false,
   "lastSyncFailed": false,
-  "lastSavedStatusID": 11267315,
+  "lastSavedStatusID": 11685105,
   "currentSyncStatusID": 0,
   "refreshBooks": true,
-  "booksToRefresh": [],
+  "booksToRefresh": [
+    "34428086"
+  ],
   "booksIDsMap": {
-    "Readwise/Articles/Paradise Bombed.md": "33308949"
+    "Readwise/Articles/Paradise Bombed.md": "33308949",
+    "Readwise/Articles/Playing With Prejudice The Prevalence and Consequences Of.md": "32565352",
+    "Readwise/Articles/Speech Entitled “Ain’t I a Woman”.md": "32565103",
+    "Readwise/Articles/Charles Krauthammer.md": "32655448",
+    "Readwise/Articles/The Ones Who Walk Away From Omelas Ursula K  Le Guin Audiobook.md": "32805002",
+    "Readwise/Articles/A Guide to Rhetoric, Genre, and Success in First-Year Writing.md": "32939655",
+    "Readwise/Articles/The Project Gutenberg eBook of a Modest Proposal, by Jonathan Swift.md": "32939916",
+    "Readwise/Articles/Letter From Birmingham Jail.md": "33004908",
+    "Readwise/Articles/A Guide to Rhetoric, Genre, and Success in First-Year Writing-2.md": "33054433",
+    "Readwise/Articles/Document.md": "33071283",
+    "Readwise/Articles/The Pain Scale.md": "33082287",
+    "Readwise/Articles/Single Dose of Psilocybin Improves Depressive Symptoms in Phase 2 Study.md": "34427236",
+    "Readwise/Articles/þÿPsilocybin \u0010assisted Therapy Reduces Heavy Drinking in Patients With AUD.md": "34428086",
+    "Readwise/Articles/Analysis of Psilocybin-Assisted Therapy in Medicine A Narrative Review.md": "34526067",
+    "Readwise/Articles/Researchers Hope Psilocybin Could Improve Quit Rates for Smokers.md": "34561912",
+    "Readwise/Articles/It's Time to Take Psilocybin Seriously as a Possible Treatment for Substance Use Disorders.md": "34563768"
   },
   "reimportShowConfirmation": true
 }
