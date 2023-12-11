@@ -5,12 +5,10 @@
   "triggerOnLoad": true,
   "isSyncing": false,
   "lastSyncFailed": false,
-  "lastSavedStatusID": 11685105,
+  "lastSavedStatusID": 11746683,
   "currentSyncStatusID": 0,
   "refreshBooks": true,
-  "booksToRefresh": [
-    "34428086"
-  ],
+  "booksToRefresh": [],
   "booksIDsMap": {
     "Readwise/Articles/Paradise Bombed.md": "33308949",
     "Readwise/Articles/Playing With Prejudice The Prevalence and Consequences Of.md": "32565352",
